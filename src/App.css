@@ -1,5 +1,8 @@
 body {
-  background: url(coffee-apple.jpg) no-repeat center center fixed;
+  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(3, 3, 3, 0.73)),
+  url(coffee-apple.jpg) ;
+  background-repeat: no-repeat center center fixed;
+  height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
